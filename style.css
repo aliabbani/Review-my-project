@@ -46,7 +46,11 @@ body {
     background-color: gray;
     color: black;
   }
-  
+
 .survey-form-class {
+  text-align:center;
+}
+
+.body-class {
   text-align:center;
 }
